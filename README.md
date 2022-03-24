@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Peskysa/Peskysa** is a ✨ _special_ ✨ repository because its `README.md` 
+ ✨I have decided to take a turn and project my professional future in the field of programming. I am very keen on this area, and I feel that I can build value for people through technology. ✨ 
 
 - 🔭 I’m currently working on the Spanish Armed Forces
 - 🌱 I’m currently learning Python in the Madrid City Hall
